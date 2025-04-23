@@ -1,4 +1,4 @@
-overall,round,team,player,nat,pos,age,birthMonth,to,amateurTeam,amateurLeage,nhl_a,nhl_pts,nhl_plusMinus,nhl_pim,nhlG_g,nhlG_w,nhlG_l,nhlG_tiesOT,nhlG_saveP,nhlG_avgGoalsAgainst,pointShare
+overall,round,team,player,nat,pos,age,birthMonth,to,amateurTeam,amateurLeague,nhl_a,nhl_pts,nhl_plusMinus,nhl_pim,nhlG_g,nhlG_w,nhlG_l,nhlG_tiesOT,nhlG_saveP,nhlG_avgGoalsAgainst,pointShare
 1,1,New York Rangers,Alexis Lafreniere,CA,LW,18,10,2025,Rimouski Oceanic ,QMJHL,101,193,-6,156,,,,,,,17.8
 2,1,Los Angeles Kings,Quinton Byfield,CA,C,18,8,2025,Sudbury Wolves ,OHL,91,142,42,140,,,,,,,13.9
 3,1,Ottawa Senators,Tim Stützle,DE,LW,18,1,2025,Adler Mannheim ,Germany,211,326,-65,179,,,,,,,30.3
